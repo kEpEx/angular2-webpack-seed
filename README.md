@@ -3,5 +3,5 @@ Seed for angular2 using webpack as described in angular.io documentation ( https
 
 ```
 npm install
-npm run
+npm start
 ```
